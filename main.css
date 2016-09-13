@@ -1,0 +1,12 @@
+#container {
+  height: 100%;
+  width: 100%;
+}
+
+.canvas {
+  float:left;
+  width:6.25%;
+  height: 1em;
+  background-color: clear;
+}
+  
